@@ -153,7 +153,10 @@ body {
   background-color: #ffffff;
 }
   .instagram-wrapper {
+    align-items: stretch;
     width: 90%;
+    margin: 4vh 0;
+    height: 92vh;
   }
 
   .instagram-phone{
@@ -162,6 +165,10 @@ body {
 
   .instagram-continue{
     width: 100%;
+  }
+
+  .group {
+    border: none;
   }
 
   .download-store {

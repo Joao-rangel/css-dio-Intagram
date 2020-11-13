@@ -1,4 +1,4 @@
-# css-dio-Intagram
+# css-dio-Instagram
 Intagram landing page copy made during DIO html course;
 
 The purpose of this exercise is to practice HTML and CSS;
